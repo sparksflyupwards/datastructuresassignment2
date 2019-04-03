@@ -1,0 +1,22 @@
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.csprojAssemblyReference.cache
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.csproj.CoreCompileInputs.cache
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.AssemblyInfoInputs.cache
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.AssemblyInfo.cs
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.deps.json
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.runtimeconfig.json
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.runtimeconfig.dev.json
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.dll
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.pdb
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.dll
+C:\Users\Saad Khan\AppData\Local\Temp\Temp1_WeaponShopAssign2.zip\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.pdb
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.deps.json
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.runtimeconfig.json
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.runtimeconfig.dev.json
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.dll
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\bin\Debug\netcoreapp2.0\WeaponShopAssign2.pdb
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.csprojAssemblyReference.cache
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.csproj.CoreCompileInputs.cache
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.AssemblyInfoInputs.cache
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.AssemblyInfo.cs
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.dll
+C:\Users\Saad Khan\Documents\George Brown\WeaponShopAssign2\WeaponShopAssign2\obj\Debug\netcoreapp2.0\WeaponShopAssign2.pdb
